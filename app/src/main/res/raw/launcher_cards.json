@@ -1,0 +1,15 @@
+[
+  {
+    "title": "",
+    "cards": [
+      {
+        "id": 0,
+        "type": "DEFAULT",
+        "title": "BUKUKU",
+        "localImageResource": "thumbnail_example_cards",
+        "description": "Buku materi kuliah semester 4"
+      }
+
+    ]
+  }
+]

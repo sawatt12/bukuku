@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Pemrograman Mobile 2 ",
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "Beginning J2ME: From Novice to Professional",
+        "description": "Rp 640.000",
+        "localImageResource": "buku01"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Beginning PhoneGap",
+        "description": "Rp 134.000",
+        "localImageResource": "buku02"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Enterprise J2ME: Developing Mobile Java Applications",
+        "description": "Rp 1.083.000",
+        "localImageResource": "buku03"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Programming Android 1st Edition",
+        "description": "Rp 130.000",
+        "localImageResource": "buku04"
+      }
+    ]
+  },
+
+  {
+    "title": "Pemrograman Web 2 ",
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "CSS: The Definitive Guide: Visual Presentation for the Web",
+        "description": "Rp 1.042.000",
+        "localImageResource": "buku05"
+      },
+      {
+        "type": "MOVIE",
+        "title": "HTML5 and CSS3 Develop with Tomorrow's Standards Today",
+        "description": "Rp 75.000",
+        "localImageResource": "buku06"
+      },
+      {
+        "type": "MOVIE",
+        "title": "JavaScript and jQuery Interactive Front-End Web Development",
+        "description": "Rp 450.000",
+        "localImageResource": "buku07"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics",
+        "description": "Rp 580.000",
+        "localImageResource": "buku08"
+      }
+    ]
+  },
+
+  {
+    "title": "Interaksi Manusia dan Komputer ",
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "Human-Computer Interaction",
+        "description": "Rp 2.100.000",
+        "localImageResource": "buku09"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Interaction Design Beyond Human-Computer Interaction",
+        "description": "Rp 832.000",
+        "localImageResource": "buku10"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Designing the User Interface Strategies for Effective Human-Computer Interaction",
+        "description": "Rp 2.220.000",
+        "localImageResource": "buku11"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Human-Computer Interaction An Empirical Research Perspective",
+        "description": "Rp 706.000",
+        "localImageResource": "buku12"
+      }
+    ]
+  },
+
+  {
+    "title": "Sistem Terdistribusi",
+    "cards": [
+      {
+        "type": "MOVIE",
+        "title": "Distributed Systems Principles and Paradigms",
+        "description": "Rp 520.000",
+        "localImageResource": "buku13"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Distributed Computing: Principles, Algorithms, and Systems",
+        "description": "Rp 950.000",
+        "localImageResource": "buku14"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Distributed Systems: Concepts and Design",
+        "description": "Rp 2.540.000",
+        "localImageResource": "buku15"
+      },
+      {
+        "type": "MOVIE",
+        "title": "Distributed Algorithms (The Morgan Kaufmann Series in Data Management Systems)",
+        "description": "Rp 2.300.000",
+        "localImageResource": "buku16"
+      }
+    ]
+  }
+]
